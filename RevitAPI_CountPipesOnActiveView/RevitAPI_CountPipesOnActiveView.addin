@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>C:\Program Files\RevitAPITraining\RevitAPI_CountPipesOnActiveView.dll</Assembly>
+		<AddInId>B03B778A-70FD-40B3-9086-DFB1BA2551C3</AddInId>
+		<FullClassName>RevitAPI_CountPipesOnActiveView.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>NUMBER OF PIPES ON THE ACTIVE VIEW</Text>
+	</AddIn>
+</RevitAddIns>
+

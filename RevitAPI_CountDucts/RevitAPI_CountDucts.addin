@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>C:\Program Files\RevitAPITraining\RevitAPI_CountDucts.dll</Assembly>
+		<AddInId>347BFF74-F27F-42A3-A10B-0C34F81C6CF2</AddInId>
+		<FullClassName>RevitAPI_CountDucts.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>CountDucts</Text>
+	</AddIn>
+</RevitAddIns>

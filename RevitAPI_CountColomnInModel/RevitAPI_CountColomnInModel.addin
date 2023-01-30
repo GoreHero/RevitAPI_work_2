@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>C:\Program Files\RevitAPITraining\RevitAPI_CountColomnInModel.dll</Assembly>
+		<AddInId>D107DC59-E009-4869-95FE-C0EE196D19ED</AddInId>
+		<FullClassName>RevitAPI_CountColomnInModel.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>RevitAPI_CountColomnInModel</Text>
+	</AddIn>
+</RevitAddIns>

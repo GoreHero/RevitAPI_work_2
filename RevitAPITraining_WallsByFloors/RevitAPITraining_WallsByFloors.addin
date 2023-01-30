@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>C:\Program Files\RevitAPITraining\RevitAPITraining_WallsByFloors.dll</Assembly>
+		<AddInId>85333DF1-8A32-4BC3-95D0-45A8D98EE5F5</AddInId>
+		<FullClassName>RevitAPITraining_WallsByFloors.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>NUMBER OF WALLS BY FLOOR</Text>
+	</AddIn>
+</RevitAddIns>
